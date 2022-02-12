@@ -1,2 +1,1 @@
-hello
-buat error
+hello world saja
