@@ -1,2 +1,1 @@
-hello
-ini tes untuk buat error
+hello world saja
